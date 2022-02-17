@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassan-Saud
 - 👀 I’m interested in Oracle Database development, primarily database security architecture development using data encryptions.  
-- 🌱 I’m currently learning Oracle Database Development and Tuning.
+- 🌱 I’m currently learning Oracle Database Development and Tuning and Network Programming in UNIX Environment.
 - 💞️ I’m looking to collaborate on Oracle Database Projects.
 - 📫 I'm available at hm862333@gmail.com
 
